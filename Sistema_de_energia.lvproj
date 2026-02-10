@@ -22,6 +22,7 @@
 		<Item Name="Source" Type="Folder" URL="../Source">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="atividade 4 ((ajustarrr 10 02.vi" Type="VI" URL="../Aulaa/atividade 4 ((ajustarrr 10 02.vi"/>
 		<Item Name="Library 1.lvlib" Type="Library" URL="../Libs/Library 1.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
